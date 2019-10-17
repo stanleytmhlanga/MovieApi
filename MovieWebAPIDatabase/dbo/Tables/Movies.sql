@@ -1,0 +1,17 @@
+﻿CREATE TABLE [dbo].[Movies]
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[Title] NVARCHAR(100) ,
+	[Released] NVARCHAR NULL,
+	[Director] NVARCHAR(100) NULL,
+[Year] NVARCHAR NULL,
+[Rated] NVARCHAR NULL,
+[Runtime] NVARCHAR NULL,
+[Genre] NVARCHAR NULL,
+[Writer] NVARCHAR NULL,
+[Actors] NVARCHAR NULL,
+[Plota] NVARCHAR NULL,
+[Country] NVARCHAR NULL,
+[Awards] NVARCHAR NULL,
+[Type] NVARCHAR NULL,
+)

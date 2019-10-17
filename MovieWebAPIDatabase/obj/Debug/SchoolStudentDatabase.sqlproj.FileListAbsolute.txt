@@ -1,0 +1,9 @@
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\bin\Debug\SchoolStudentDatabase.dacpac
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\bin\Debug\SchoolStudentDatabase.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\bin\Debug\SchoolStudentDatabase.pdb
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\obj\Debug\Model.xml
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\obj\Debug\refactor.xml
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\obj\Debug\postdeploy.sql
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\obj\Debug\predeploy.sql
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\obj\Debug\SchoolStudentDatabase.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudentDatabase\obj\Debug\SchoolStudentDatabase.pdb

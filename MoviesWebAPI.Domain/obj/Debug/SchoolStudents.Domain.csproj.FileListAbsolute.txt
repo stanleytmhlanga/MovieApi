@@ -1,0 +1,11 @@
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\bin\Debug\SchoolStudents.Domain.dll.config
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\bin\Debug\SchoolStudents.Domain.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\bin\Debug\SchoolStudents.Domain.pdb
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\bin\Debug\EntityFramework.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\bin\Debug\EntityFramework.xml
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\obj\Debug\SchoolStudents.Domain.csproj.CoreCompileInputs.cache
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\obj\Debug\SchoolStudents.Domain.csproj.CopyComplete
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\obj\Debug\SchoolStudents.Domain.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudents.Domain\obj\Debug\SchoolStudents.Domain.pdb

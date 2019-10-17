@@ -1,0 +1,15 @@
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\SchoolStudentsApi.dll.config
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\SchoolStudentsApi.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\SchoolStudentsApi.pdb
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\EntityFramework.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\EntityFramework.SqlServer.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\SchoolStudents.Domain.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\SchoolStudents.Domain.pdb
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\SchoolStudents.Domain.dll.config
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\EntityFramework.xml
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\bin\Debug\EntityFramework.SqlServer.xml
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\obj\Debug\SchoolStudentsApi.csprojAssemblyReference.cache
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\obj\Debug\SchoolStudentsApi.csproj.CoreCompileInputs.cache
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\obj\Debug\SchoolStudentsApi.csproj.CopyComplete
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\obj\Debug\SchoolStudentsApi.dll
+G:\School\GenericStudent\SchoolStudent\SchoolStudentsApi\obj\Debug\SchoolStudentsApi.pdb

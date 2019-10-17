@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[__MigrationHistory] (Table)
+       [dbo].[Course] (Table)
+       [dbo].[Department] (Table)
+       [dbo].[Students] (Table)
+       Foreign Key: unnamed constraint on [dbo].[Students] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Students] (Foreign Key)
+
+** Supporting actions
